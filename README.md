@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou Barbara Leticia! 👋
 
 ### 🚀 Estudante de Programação de Sistemas | Desenvolvedor em Formação
 
@@ -15,4 +15,19 @@ Seja bem-vindo(a) ao meu perfil do GitHub! Estou na minha jornada inicial no mun
 
 ---
 
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as ferramentas e linguagens que utilizo ou estou estudando atualmente:
+
+- **Linguagens & Lógica:** 
+  ![Portugol](https://shields.io)
+
+- **Controle de Versão:**
+  ![Git](https://shields.io)
+  ![GitHub](https://shields.io)
+
+- **Design & Produtividade:**
+  ![Canva](https://shields.io)
+
+---
 
