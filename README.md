@@ -31,3 +31,4 @@ Aqui estão as ferramentas e linguagens que utilizo ou estou estudando atualment
 
 ---
 
+ 
